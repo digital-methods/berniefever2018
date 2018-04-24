@@ -8,6 +8,33 @@
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    
+    
+    <nav class="navbar navbar-default">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand">{{ site.title }}</a>
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="myNavbar">
+<ul class="nav navbar-nav">
+{% for item in site.menu %}
+<li><a href="{{ item.pagename }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>
+<ul class="nav navbar-nav navbar-right"></ul>
+</div>
+</div>
+</nav>
+    
+    
+    
+    
   </head>
   <body>
     <section class="page-header">
