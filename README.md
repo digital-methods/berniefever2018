@@ -63,6 +63,8 @@ After having a first look at our data (showing post_id, post message, comment me
 
 To have an in-depth analysis of these results, we created sub-corpuses for each cluster by running queries. Using the corpus explorer, we could do a qualitative analysis of the most interesting boxes from the contingency matrix.
 
+![github_picture1](https://user-images.githubusercontent.com/38719684/39623283-68aacae4-4f95-11e8-90b8-f94d83360be0.png)
+
 
 
 ## References
