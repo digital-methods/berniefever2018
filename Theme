@@ -6,4 +6,5 @@ menu: [
 {'name': 'sharks here !', 'pagename': 'page1'},
 {'name': 'Go there', 'pagename': 'page2'},
 {'name': 'Yet Another page', 'pagename': 'page3'},
+]
 
