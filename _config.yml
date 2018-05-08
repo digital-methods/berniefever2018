@@ -2,8 +2,9 @@ theme: jekyll-theme-cayman
 title:  Bernie Fever and Facebook
 description: We analyze Facebook posts of the official Bernie Sanders page and their comments.
 menu: [
-{'name': 'Home', 'pagename': 'index'},
-{'name': 'sharks here !', 'pagename': 'page1'},
-{'name': 'Go there', 'pagename': 'page2'},
-{'name': 'Yet Another page', 'pagename': 'page3'},
+{'name': 'Theoretical Overview', 'pagename': 'index'},
+{'name': 'Research Aims and Methodology, 'pagename': 'page1'},
+{'name': 'Analysis', 'pagename': 'page2'},
+{'name': 'Limitations and Future Research', 'pagename': 'page3'},
+{'name': 'References', 'pagename': 'page4'}
 ]
