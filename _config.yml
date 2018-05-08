@@ -3,7 +3,7 @@ title:  Bernie Fever and Facebook
 description: We analyze Facebook posts of the official Bernie Sanders page and their comments.
 menu: [
 {'name': 'Theoretical Overview', 'pagename': 'index'},
-{'name': 'Research Aims and Methodology, 'pagename': 'page1'},
+{'name': 'Research Aims and Methodology', 'pagename': 'page1'},
 {'name': 'Analysis', 'pagename': 'page2'},
 {'name': 'Limitations and Future Research', 'pagename': 'page3'},
 {'name': 'References', 'pagename': 'page4'}
