@@ -104,8 +104,7 @@ The contingency matrix above (figure 1) visualizes a joint distribution of our t
 
 Finally, the size of the cells both horizontally and vertically represent the portion of that category in the overall sample size. For the Y-axis, which contains the sentiment score, the length of the cell is proportional to the number of comments that belong to each category. In this case -1 to 1 is longest because a large part of the comments (for all of the posts) have that score (~ 50%)
 
-<iframe src= " https://documents.cortext.net/3ff3/3ff3aaa681d3fe1190ac2d5c9972bf15/74618/temporal%20evolution/basic_statistics_sentpolarity_comment_message_reg_6_20ISIpubdate.html
-" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1200" height="800" allowfullscreen></iframe> <br />
+![figure_6_2](https://user-images.githubusercontent.com/38719684/39636044-5c3cbdba-4fbf-11e8-9260-3424b9e31554.png)
 
 The results of the contingency matrix demonstrate that there is a high correlation between the posts about the Trump administration and comments with a highly negative score (-10 to -5). There is also a strong correlation between posts on minimum wage and comments with a decent positive score (2 to 4) and immigration (and events) and comments with a highly positive sentiment score (8 to 10).
 
