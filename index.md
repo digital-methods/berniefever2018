@@ -118,7 +118,7 @@ Though we can indeed see that negative comments mostly dominated throughout, we 
 
 ### Figure 8: Field Evolution of Opinionated Comments - Subcorpus ‘Minimum Wage’
 
-![picture_8](https://user-images.githubusercontent.com/38719684/39636239-eebe5464-4fbf-11e8-8bab-9bbb8c31e34a.png)
+![screen shot 2018-05-10 at 02 56 09](https://user-images.githubusercontent.com/38719684/39846767-c7bd761e-53fd-11e8-86c0-783f1b7fb8c5.png)
 
 ## Limitations 
 
